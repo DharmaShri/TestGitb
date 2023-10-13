@@ -1,2 +1,2 @@
 # TestGitb
-රීක්ෂා කිරී - Git b Test
+පරීක්ෂා කිරීම - Git bub Test
